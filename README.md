@@ -1,4 +1,4 @@
-http://moriyaradio.me/vrindexdemo.html
+[HackUmassV AR/VR Winner](https://devpost.com/software/vr-bubble-browser)
 
 to access
 
